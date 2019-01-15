@@ -8,8 +8,7 @@ public enum Kits {
 
     PIONEER("§ePionier", Material.PURPLE_DYE,
             new String[] {"", "§cMP7"},
-            new ItemStack[] {
-                    new ItemStack(Material.CARVED_PUMPKIN)}
+            new ItemStack[] {new ItemStack(Material.CARVED_PUMPKIN)}
             ),
     ASSAULT("§eSturmsoldat", Material.ORANGE_DYE,
             new String[] {"", "§cSAR21"},
